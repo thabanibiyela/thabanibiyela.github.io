@@ -1,6 +1,6 @@
 # Thabani Biyela — Finance × Technology
 
-**Chartered Accountant (Institute of Chartered Accountants Ireland) | MSc Computer Science | Senior Platform Analyst**
+#### Chartered Accountant (Institute of Chartered Accountants Ireland) | MSc Computer Science | Senior Platform Analyst
 
 Dublin, Ireland · [LinkedIn](https://www.linkedin.com/in/biyelat/) · 
 
