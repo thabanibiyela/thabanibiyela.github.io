@@ -1,4 +1,4 @@
-# Thabani Biyela — Finance × Technology
+# Finance × Technology
 
 #### Chartered Accountant | MSc Computer Science | Senior Platform Analyst
 
