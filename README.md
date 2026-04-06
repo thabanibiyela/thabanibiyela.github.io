@@ -37,37 +37,27 @@ A real-world case study examining the accounting operations of a large-scale dig
 ## Skills
 
 
-**Languages:** English (Native), German (C1)
-
-**MS Office:** MS Excel (including Power Query), MS Word, MS Powerpoint.
-
-**Google Cloud Platform:** Google BigQuery, Google Looker Studio, Google Apps Script.
-
-**Programming Languages:** Python (including Pandas), SQL, and JavaScript. 
-
-**Developer Tools:** Git Version Control,  Visual Studio Code, Jupyter Notebook.
-
-**Accounting:** Qualified accountant with proven technical accounting knowledge in IFRS. Chartered Accountants Ireland member #140153.
+- **Languages:** English (Native), German (C1)
+- **MS Office:** MS Excel (including Power Query), MS Word, MS Powerpoint.
+- **Google Cloud Platform:** Google BigQuery, Google Looker Studio, Google Apps Script.
+- **Programming Languages:** Python (including Pandas), SQL, and JavaScript. 
+- **Developer Tools:** Git Version Control,  Visual Studio Code, Jupyter Notebook.
 
 ---
 
 ## Experience
 
-**Senior Platform Analyst** · Just Eat Takeaway.com · Dublin · Jan 2024 – Present
-
-**Executive Accountant** · BASF Services Europe GmbH · Berlin · May 2021 – Dec 2023
-
-**Senior Auditor / Auditor** · Deloitte Ireland LLP · Dublin · Oct 2017 – Apr 2021
+- **Senior Platform Analyst** · Just Eat Takeaway.com · Dublin · Jan 2024 – Present
+- **Executive Accountant** · BASF Services Europe GmbH · Berlin · May 2021 – Dec 2023
+- **Senior Auditor / Auditor** · Deloitte Ireland LLP · Dublin · Oct 2017 – Apr 2021
 
 ---
 
 ## Education
 
-**MSc Computer Science** · University of London (Birkbeck) · Distinction · 2022–2025
-
-**Chartered Accountant (ACA)** · Chartered Accountants Ireland · 2017–2020
-
-**BBS Business Studies & German** · Trinity College Dublin · II.1 · 2013–2017
+- **MSc Computer Science** · University of London (Birkbeck) · Distinction · 2022–2025
+- **Chartered Accountant (ACA)** · Chartered Accountants Ireland · 2017–2020
+- **B.B.S.(Lang.) Business Studies & German** · Trinity College Dublin · II.1 · 2013–2017
 
 ---
 
