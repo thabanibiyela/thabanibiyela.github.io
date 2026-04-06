@@ -2,3 +2,24 @@ theme: jekyll-theme-minimal
 logo: data/images/profile1_small.png
 title: Thabani's homepage
 description: A curated collection of my work in finance automation showcasing how I use Python, SQL, JavaScript, and GCP to solve complex financial problems and build data-driven tools.
+
+# These settings control the types of collections used by the template
+collections:
+  cv:
+    output: true
+    permalink: /:collection/:path/
+
+
+# These settings control how pages and collections are included in the site
+defaults:
+  # _cv
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
