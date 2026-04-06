@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Home"
+permalink: /
+---
+
 # Thabani Biyela, ACA
 
 #### Chartered Accountant | MSc Computer Science | Senior Platform Analyst
