@@ -18,6 +18,6 @@ Tree-based classifiers came out on top, consistent with the broader literature o
 
 ---
 
-💻 [View the notebook](#)
+💻 [View the project](https://thabanibiyela.github.io/aml-going--concern/)
 
 ---
