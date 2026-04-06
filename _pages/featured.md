@@ -13,7 +13,7 @@ permalink: /featured
 
 Large-scale digital marketplaces generate enormous volumes of financial data — and the accounting processes that support them need to keep up. This project examined that challenge first-hand, diagnosing a fragmented, spreadsheet-heavy operation inside a platform processing hundreds of millions of transactions annually, and delivering a working cloud-based solution to modernise and automate it.
 
-The project was implemented within the platform accounting team at a leading online food delivery platform operating across 17 countries and processing 879 million orders in 2024 alone. Each order generates multiple financial microtransactions — all of which must be accurately captured, enriched, reconciled, and reported to the general ledger.
+The project was implemented within the platform accounting team at a leading online food delivery platform operating across 17 countries and processing 140+ million orders in 2024 alone. Each order generates multiple financial microtransactions — all of which must be accurately captured, enriched, reconciled, and reported to the general ledger.
 
 The team's existing system relied on a combination of a bespoke ETL script, a customised accounting integration, and extensive manual spreadsheet work to fulfil its responsibilities across journal entries, reconciliations, audit support, and stakeholder reporting. Manual processes increased turnaround times, introduced risk of error, and were not scalable given the size and complexity of the datasets involved.
 
