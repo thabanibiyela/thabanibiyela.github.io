@@ -3,10 +3,11 @@ theme: jekyll-theme-minimal
 nav_links:
   - title: Home
     url: /
-  - title: CV
-    url: /cv
   - title: Featured Project
     url: /featured
+  - title: CV
+    url: /cv
+
 logo: data/images/profile1_small.png
 title: Thabani's homepage
 description: A curated collection of my work in finance automation showcasing how I use Python, SQL, JavaScript, and GCP to solve complex financial problems and build data-driven tools.
@@ -22,11 +23,13 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  #_cv
   - scope:
       path: ""
       type: cv
     values:
       layout: default
+  #_featured
   - scope:
       path: ""
       type: featured

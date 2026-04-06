@@ -3,7 +3,9 @@
 layout: default
 title: "Featured Project"
 permalink: /featured
+
 ---
+
 
 # From Spreadsheets to the Cloud: Automating Revenue Accounting
 
