@@ -17,9 +17,6 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
-  featured:
-    output: true
-    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -27,11 +24,5 @@ defaults:
   - scope:
       path: ""
       type: cv
-    values:
-      layout: default
-  #_featured
-  - scope:
-      path: ""
-      type: featured
     values:
       layout: default
