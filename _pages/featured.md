@@ -24,7 +24,7 @@ Following an internal analysis, a gap analysis was performed to map the team's s
 - **Project A — Master Data Harmonisation:** Migration of data storage and processing to Google BigQuery using DBT
 - **Project B — Stakeholder Reporting:** Interactive business intelligence dashboards built in Looker Studio
 - **Project C — Automation Platform:** A Python command line application to automate journal entries, reconciliations, and audit support
-
+![System Architecture](../assets/images/architecture.svg)
 ### Results
 
 | Process | Before | After |
@@ -181,7 +181,7 @@ The stakeholder reporting component of the project replaces this with **interact
 Requirements were gathered by analysing historical stakeholder data requests and conducting walkthrough sessions to understand how financial insights are consumed and acted upon.
 
 Each dashboard provides:
-- **Time series analysis** of account balances across the reporting period
+- **Periodic Overview** of account balances across the reporting period
 - **Monthly variance analysis** with commentary support
 - **Variance split** — attributing total variance to its component drivers (e.g. volume vs. price effects)
 - **Geographic breakdown** by market, with country-level filtering
