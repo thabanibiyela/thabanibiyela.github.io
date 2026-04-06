@@ -1,4 +1,4 @@
-# Finance × Technology
+# Thabani Biyela, ACA
 
 #### Chartered Accountant | MSc Computer Science | Senior Platform Analyst
 
