@@ -4,7 +4,7 @@ title: "Other Projects"
 permalink: /projects
 ---
 
-# Using Machine Learning to Assess Going Concern Risk
+# [💲 Using Machine Learning to Assess Going Concern Risk](https://thabanibiyela.github.io/aml-going--concern/)
 
 *Python · scikit-learn · Pandas · Logistic Regression · Random Forest*
 
@@ -16,8 +16,15 @@ Using the Taiwanese Bankruptcy Prediction dataset (6,800+ companies, UCI), the p
 
 Tree-based classifiers came out on top, consistent with the broader literature on financial distress prediction.
 
+
 ---
 
-💻 [View the project](https://thabanibiyela.github.io/aml-going--concern/)
+# [🧠 Memory Card Matching Game](https://thabanibiyela.github.io/memory-game/)
+
+*Java · Object-Oriented Programming*
+
+---
+
+A Java memory card game with multi-player support, persistent high scores, and game replay. Built as OOP coursework — turned out pretty fun.
 
 ---
