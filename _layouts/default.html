@@ -6,8 +6,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} | {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <style>
+      nav.top-nav {
+        background: #fff;
+        border-bottom: 1px solid #ddd;
+        padding: 0 24px;
+      }
+      nav.top-nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        gap: 0;
+      }
+      nav.top-nav ul li a {
+        display: block;
+        padding: 14px 20px;
+        text-decoration: none;
+        color: #333;
+        font-weight: 500;
+        border-bottom: 3px solid transparent;
+      }
+      nav.top-nav ul li a:hover,
+      nav.top-nav ul li a.active {
+        border-bottom: 3px solid #333;
+        color: #000;
+      }
+    </style>
   </head>
   <body>
+    <nav class="top-nav">
+      <ul>
+        <li><a href="{{ "/" | relative_url }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+        <li><a href="{{ "/cv" | relative_url }}" {% if page.url contains "/cv" %}class="active"{% endif %}>CV</a></li>
+      </ul>
+    </nav>
     <div class="wrapper">
       <header>
         {% if site.logo %}
@@ -15,12 +48,6 @@
         {% endif %}
         <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
         <p>{{ site.description }}</p>
-        <nav>
-          <ul>
-            <li><a href="{{ "/" | relative_url }}">Home</a></li>
-            <li><a href="{{ "/cv" | relative_url }}">CV</a></li>
-          </ul>
-        </nav>
       </header>
       <section>
         {{ content }}
