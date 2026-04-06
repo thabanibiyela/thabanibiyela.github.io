@@ -1,9 +1,7 @@
-
 ---
 layout: default
 title: "Featured Project"
 permalink: /featured
-
 ---
 
 
