@@ -5,9 +5,10 @@ nav_links:
     url: /
   - title: CV
     url: /cv
-title: Home
 logo: data/images/profile1_small.png
-description: A curated collection of my work.
+title: Thabani's homepage
+description: A curated collection of my work in finance automation showcasing how I use Python, SQL, JavaScript, and GCP to solve complex financial problems and build data-driven tools.
+
 # These settings control the types of collections used by the template
 collections:
   cv:
