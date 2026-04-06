@@ -16,6 +16,8 @@ nav_links:
     url: /
   - title: Featured Project
     url: /featured
+  - title: Other Projects
+    url: /projects
   - title: CV
     url: /cv
 
