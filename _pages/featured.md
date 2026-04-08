@@ -5,7 +5,7 @@ permalink: /featured
 ---
 
 
-# From Spreadsheets to the Cloud: Automating Revenue Accounting
+# [From Spreadsheets to the Cloud: Automating Revenue Accounting](https://thabanibiyela.github.io/platform-accounting-public/)
 
 ---
 
