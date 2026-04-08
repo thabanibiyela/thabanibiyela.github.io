@@ -18,4 +18,18 @@ Eight years in finance teaches you a lot. One of the biggest lessons: most of th
 
 ---
 
+## Skills
+
+🐍 **Python (inc. Pandas)** · 🗄️ **SQL** · 🌐 **JavaScript**
+
+☁️ **Google BigQuery** · 🔧 **dbt** · 📊 **Google Looker Studio** · ⚙️ **Google App Scripts** · 📓 **JupyterLab**
+
+🗂️ **Git** · 💻 **VS Code** · 📈 **MS Excel (inc. Power Query and VBA)** 
+
+🧾 **Chartered Accountant (ACA)** · 📐 **IFRS** · 🔒 **SOX Controls**
+
+🇬🇧 English (Native) · 🇩🇪 German (C1)
+
+---
+
 *Get in touch via [LinkedIn](https://www.linkedin.com/in/biyelat/) or [email](mailto:bani.biyela@gmail.com)*

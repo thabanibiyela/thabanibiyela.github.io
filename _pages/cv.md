@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv
 ---
 
-📄 [View / Download CV (PDF)](/assets/docs/CV_Thabani_Biyela_PUB.pdf)
+## 📄 [View / Download CV (PDF)](/assets/docs/CV_Thabani_Biyela_PUB.pdf)
 
 ---
 
