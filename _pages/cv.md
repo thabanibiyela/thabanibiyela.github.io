@@ -4,13 +4,15 @@ title: "CV"
 permalink: /cv
 ---
 
+📄 [View / Download CV (PDF)](/assets/docs/CV_Thabani_Biyela_PUB.pdf)
+
 ---
 
 # Thabani Biyela, ACA
 
 #### Chartered Accountant | MSc Computer Science | Senior Platform Analyst
 
-Dublin, Ireland · [LinkedIn](https://www.linkedin.com/in/biyelat/) · 
+Dublin, Ireland · [LinkedIn](https://www.linkedin.com/in/biyelat/) · [bani.biyela@gmail.com](mailto:bani.biyela@gmail.com)
 
 ---
 
@@ -70,4 +72,4 @@ Senior auditor in the financial services audit department of Deloitte Ireland re
 
 ---
 
-*Get in touch via [LinkedIn](https://www.linkedin.com/in/biyelat/) or email.*
+*Get in touch via [LinkedIn](https://www.linkedin.com/in/biyelat/) or [email](mailto:bani.biyela@gmail.com)*

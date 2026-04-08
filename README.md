@@ -8,7 +8,7 @@ permalink: /
 
 #### Chartered Accountant | MSc Computer Science | Senior Platform Analyst
 
-Dublin, Ireland · [LinkedIn](https://www.linkedin.com/in/biyelat/) · 
+Dublin, Ireland · [LinkedIn](https://www.linkedin.com/in/biyelat/) · [bani.biyela@gmail.com](mailto:bani.biyela@gmail.com)
 
 ---
 
@@ -18,4 +18,4 @@ Eight years in finance teaches you a lot. One of the biggest lessons: most of th
 
 ---
 
-*Get in touch via [LinkedIn](https://www.linkedin.com/in/biyelat/)*
+*Get in touch via [LinkedIn](https://www.linkedin.com/in/biyelat/) or [email](mailto:bani.biyela@gmail.com)*
