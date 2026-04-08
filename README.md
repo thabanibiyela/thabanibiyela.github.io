@@ -18,17 +18,16 @@ Eight years in finance teaches you a lot. One of the biggest lessons: most of th
 
 ---
 
+
 ## Skills
 
-🐍 **Python (inc. Pandas)** · 🗄️ **SQL** · 🌐 **JavaScript**
+**Accounting & Finance** — Chartered Accountant (ACA)
 
-☁️ **Google BigQuery** · 🔧 **dbt** · 📊 **Google Looker Studio** · ⚙️ **Google App Scripts** · 📓 **JupyterLab**
+**Engineering & Data** — Python (inc. Pandas), SQL, JavaScript, DBT, Google BigQuery, Looker Studio, Google Apps Script, Git, Jupyter, Power Query
 
-🗂️ **Git** · 💻 **VS Code** · 📈 **MS Excel (inc. Power Query and VBA)** 
+**Tools** — Workday Finance, MS Office Suite, VS Code
 
-🧾 **Chartered Accountant (ACA)** · 📐 **IFRS** · 🔒 **SOX Controls**
-
-🇬🇧 English (Native) · 🇩🇪 German (C1)
+**Languages** — 🇬🇧 English (Native),  🇩🇪 German (C1) 
 
 ---
 
