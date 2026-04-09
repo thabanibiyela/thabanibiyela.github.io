@@ -30,10 +30,10 @@ I'm a Chartered Accountant (ACA) with an MSc in Computer Science and over 8 year
 Senior platform analyst in the central platform accounting and insights team responsible for revenue recognition and analytics in Just Eat Takeaway.com’s European markets. Just Eat Takeaway is a Dutch multinational online food ordering and delivery company which operates various food ordering and delivery platforms in 20 countries.
 - Application of IFRS (especially IFRS 15) accounting policies and recording of transactions relating to business events occurring on the company’s order management system. 
 - Review and analyse partner (B2B)  and consumer (B2C) terms and conditions relating to business streams to determine the appropriate revenue recognition treatment.
-Leads the timely completion of complex month-end closing including supporting and guiding two junior team members. This includes preparation and review of journals, reconciliations, and KPI reporting.
+- Leads the timely completion of complex month-end closing including supporting and guiding two junior team members. This includes preparation and review of journals, reconciliations, and KPI reporting.
 - Represents the finance function in the cross-functional teams responsible for integrating new products and markets into the company’s order management and finance systems.
-Builds and maintains relationships with stakeholders. Revenue accounting’s main point of contact for  internal and external stakeholders, including country finance leads, group reporting, business partners, country accounting and external auditors.
-Development of interactive dashboards and visualisations to present financial insights to stakeholders.
+- Builds and maintains relationships with stakeholders. Revenue accounting’s main point of contact for  internal and external stakeholders, including country finance leads, group reporting, business partners, country accounting and external auditors.
+- Development of interactive dashboards and visualisations to present financial insights to stakeholders.
 - Initiation, development and maintenance of data pipelines and data models that power journal postings, account reconciliations and dashboards. These support financial processing for a platform facilitating 140m+ annual orders, each generating multiple revenue streams requiring transformation, enrichment, and reconciliation to the general ledger.
 - Leads continuous improvement initiatives for revenue and platform accounting. 
 - Control owner for relevant SOX controls.
