@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 
+plugins:
+  - jekyll-sitemap
+
 collections:
   pages:
     output: true
