@@ -2,6 +2,7 @@
 layout: default
 title: "CV"
 permalink: /cv
+sitemap: false
 ---
 
 ## 📄 [View / Download CV (PDF)](/assets/docs/CV_Thabani_Biyela_PUB.pdf)

@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+url: "https://thabanibiyela.github.io"
 
 plugins:
   - jekyll-sitemap
@@ -13,6 +14,10 @@ defaults:
       type: pages
     values:
       layout: default
+  - scope:
+      path: "assets/docs"
+    values:
+      sitemap: false
 
 nav_links:
   - title: Home
