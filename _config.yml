@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-url: "https://thabanibiyela.github.io"
 
 plugins:
   - jekyll-sitemap
